@@ -1,16 +1,16 @@
 {
-  "name": "gitbook-publishable-template",
+  "name": "butts",
   "version": "1.0.0",
-  "description": "A template for publishing a Gitboo",
+  "description": "lots of butts",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebeccapeltz/gitbook-publishable-template.git"
+    "url": "git+https://github.com/alcatraz5yz/butts.git"
   },
-  "author": "Becky Peltz",
+  "author": "allan kueng",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rebeccapeltz/gitbook-publishable-template/issues"
